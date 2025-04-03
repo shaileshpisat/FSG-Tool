@@ -18,3 +18,5 @@ src/
 ```
 
 For suggestions and comments reach out to [me](mailto:ace.dev.100@gmail.com)
+
+![Badge](https://badgen.net/badge/build/passing/green?icon=github)

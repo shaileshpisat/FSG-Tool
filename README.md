@@ -1,4 +1,4 @@
-# FSG-Tool (Folder Structure Generator) ![CI Badge]
+# FSG-Tool (Folder Structure Generator) ![Badge](https://badgen.net/badge/build/passing/green?icon=github)
 
 > Automatically create folder structures from markdown code blocks
 
