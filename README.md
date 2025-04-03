@@ -70,7 +70,7 @@ Open a Pull Request
 # License
 MIT © 2024 Shailesh Pisat
 
-For suggestions and comments reach out to [me]!(mailto:ace.dev.100@gmail.com)
+For suggestions and comments reach out to [me](mailto:ace.dev.100@gmail.com)
 
 
 

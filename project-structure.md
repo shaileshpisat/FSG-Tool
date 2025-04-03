@@ -16,3 +16,5 @@ src/
 └── types/
     └── index.ts
 ```
+
+For suggestions and comments reach out to [me](mailto:ace.dev.100@gmail.com)
