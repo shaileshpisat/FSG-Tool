@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# User files
+*.user
+*.suo
